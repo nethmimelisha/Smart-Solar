@@ -8,7 +8,7 @@ a.action_button{
 a.action_button{display:none;}
 }
 #Footer {
-	background-image: url(../images/scooterrental-footer-bg.png);
+	
 	background-repeat: no-repeat;
 	background-position: center bottom;
 	background-size: contain
@@ -27,7 +27,7 @@ body.header-below:not(.template-slider) #Header {
 }
 #Footer .widgets_wrapper {
 	padding: 20px 0;
-	height: 10px;
+	
 }
 body, button, span.date_label, .timeline_items li h3 span, input[type="submit"], input[type="reset"], input[type="button"], input[type="text"], input[type="password"], input[type="tel"], input[type="email"], textarea, select, .offer_li .title h3 {
 	font-family: "Sora", Helvetica, Arial, sans-serif;
